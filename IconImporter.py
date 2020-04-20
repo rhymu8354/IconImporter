@@ -11,7 +11,7 @@ Copyright © 2020 by Richard Walters
 import png
 import sys
 
-# From: http://www.shikadi.net/moddingwiki/EGA_Palette
+# From: https://en.wikipedia.org/wiki/Enhanced_Graphics_Adapter
 egaPalette = [
     (0x00, 0x00, 0x00), # black
     (0x00, 0x00, 0xAA), # blue
